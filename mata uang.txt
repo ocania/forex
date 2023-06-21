@@ -1,0 +1,11 @@
+
+"BAM": "Bosnia-Herzegovina Convertible Mark",
+  "BBD": "Barbadian Dollar",
+  "BDT": "Bangladeshi Taka",
+  "BGN": "Bulgarian Lev",
+  "BHD": "Bahraini Dinar",
+  "BIF": "Burundian Franc",
+  "BMD": "Bermudan Dollar",
+  "BND": "Brunei Dollar",
+ "IDR": "Indonesian Rupiah",
+"USD": "United States Dollar",
